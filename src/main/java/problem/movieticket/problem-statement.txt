@@ -1,4 +1,0 @@
-A person in the queue can buy only one ticket at a time. For the second ticket he needs to go back to queue
-and wait for his turn. Each person takes 1 unit time at the counter to get a ticket.
-Given int array containing the number of tickets the person at that position needs.
-Find the number of turns(time unit) kth person will have to take to buy all his tickets.
